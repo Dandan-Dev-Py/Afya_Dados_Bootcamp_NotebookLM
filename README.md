@@ -72,4 +72,4 @@ Programar é dividir um problema em três fases: **Entrada de dados** (captaçã
 *   **Python:** Linguagem foco de estudo.
 
 ---
-Desenvolvido por [Seu Nome] durante os estudos na DIO.
+Desenvolvido por Daniel Alves de Oliveira durante os estudos na DIO.
